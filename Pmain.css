@@ -1,0 +1,40 @@
+body{
+    font-size: 20px;
+   background-color: khaki;
+}
+h1{
+    background-color: mediumspringgreen;
+   text-align: center; 
+   
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    display: block;
+    margin: auto; }
+.parrafo{
+    text-indent: 20px;
+    text-align: center;
+}
+
+#forma{
+    text-align: center;
+}
+.hcj{
+    background-color: burlywood;
+}
+#table{ 
+
+   background-color: dimgrey;
+}
+h2{
+    background-color: mediumspringgreen;    
+}
+.ef{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+    
+
